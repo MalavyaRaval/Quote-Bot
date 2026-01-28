@@ -1,5 +1,5 @@
 # Quote-Bot
-This Bot is supposed to fetch Qoutes from online sources and display them to user in such a way that every time a user requests a quote,
+This Bot fetches Qoutes from online sources and presents it to user in such a way that every time a user requests a quote,
 a new is generated and displayed to the user.
 
 This is done using Python and its libraries such as :-
